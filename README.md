@@ -1,8 +1,8 @@
-# Cranium Core
+# Convertible Cranium — Game Changer Surface
 
 An affective-dynamical cognitive governance substrate and visual terminal.
 
-Rewritten as a React (Vite) application.
+Rewritten as a React (Vite) application. Part of the **Convertible Cranium** portfolio.
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ npm run dev
 
 ## WorthWyl ownership and review entry point
 
-The Cranium Ecosystem is presented through **Convertible Cranium Engineering**, the software and engineering division of **WorthWyl Media**. Commercial licensing and related technical assets are intended to be handled through **WorthWyl LLC**. **WorthWyl Foundation** is a separate nonprofit branch. See [`RIGHTS-AND-LICENSING.md`](./RIGHTS-AND-LICENSING.md) for the ownership boundary.
+The Convertible Cranium Ecosystem is presented through **Convertible Cranium Engineering**, the software and engineering division of **WorthWyl Media**. Commercial licensing and related technical assets are intended to be handled through **WorthWyl LLC**. **WorthWyl Foundation** is a separate nonprofit branch. See [`RIGHTS-AND-LICENSING.md`](./RIGHTS-AND-LICENSING.md) for the ownership boundary.
 
 Visual overview: [`assets/cranium-architecture.svg`](./assets/cranium-architecture.svg).
 
