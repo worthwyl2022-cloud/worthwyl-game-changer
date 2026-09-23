@@ -13,10 +13,10 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Audit Kernel adoption contract
-        run: ./scripts/audit-kernel-alignment.sh
       - name: Check out source
         uses: actions/checkout@v4
+      - name: Audit Kernel adoption contract
+        run: ./scripts/audit-kernel-alignment.sh
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
