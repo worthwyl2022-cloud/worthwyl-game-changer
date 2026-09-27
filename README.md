@@ -1,8 +1,17 @@
 # Convertible Cranium — Game Changer Surface
 
-An affective-dynamical cognitive governance substrate and visual terminal.
+**Status: Demonstration / application surface — Non-canonical**
 
-Rewritten as a React (Vite) application. Part of the **Convertible Cranium** portfolio.
+The sole canonical authority source is [`cranium-kernel`](https://github.com/worthwyl2022-cloud/cranium-kernel).
+
+An affective-dynamical cognitive governance surface and visual terminal. Part of the Convertible Cranium portfolio. It does **not** issue canonical authority.
+
+---
+
+## Core invariant
+
+> Cognition may come from anywhere.  
+> Authority comes only through Convertible Cranium.
 
 ## Getting Started
 
@@ -11,17 +20,6 @@ npm install
 npm run dev
 ```
 
-## Features
-- **Forge**: Initialize the Cognitive Spiral.
-- **Writer Workspace**: AI-assisted writing, narration, and export.
-- **Tracker**: Metacognitive dashboard for tension and continuity.
-- **World Building Bible**: Manage locations and characters.
-- **Style Sync**: Analyze and sync writing styles.
+## Ownership
 
-## WorthWyl ownership and review entry point
-
-The Convertible Cranium Ecosystem is presented through **Convertible Cranium Engineering**, the software and engineering division of **WorthWyl Media**. Commercial licensing and related technical assets are intended to be handled through **WorthWyl LLC**. **WorthWyl Foundation** is a separate nonprofit branch. See [`RIGHTS-AND-LICENSING.md`](./RIGHTS-AND-LICENSING.md) for the ownership boundary.
-
-Visual overview: [`assets/cranium-architecture.svg`](./assets/cranium-architecture.svg).
-
-Public review package: [`cranium-portfolio/public-review`](https://github.com/worthwyl2022-cloud/cranium-portfolio/tree/main/public-review).
+Presented through Convertible Cranium Engineering (WorthWyl Media).
